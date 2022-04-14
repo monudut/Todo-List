@@ -1,0 +1,15 @@
+.todo_style{
+    display: flex;
+    flex-direction: row;
+    justify-self: left;
+    align-items: center;
+}
+.todo_style h2{
+    width:20px;
+    cursor: pointer;
+    display: flex;
+    background: white;
+    justify-content: center;
+    align-items: center;
+    margin: 0 15px 0 35px;
+}
